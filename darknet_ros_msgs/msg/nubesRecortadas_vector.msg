@@ -1,0 +1,1 @@
+nubesRecortadas[] vector_nubes

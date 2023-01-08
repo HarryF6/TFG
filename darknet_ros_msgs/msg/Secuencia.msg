@@ -1,0 +1,4 @@
+sensor_msgs/PointCloud2 msg_nube1
+sensor_msgs/PointCloud2 msg_nube2
+sensor_msgs/Image msg_img1
+sensor_msgs/Image msg_img2
