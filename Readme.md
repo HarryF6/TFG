@@ -25,3 +25,6 @@ información de los objetos detectados por la red neuronal, con tal de dotar con
 más información a los usuarios que hagan uso de la escena final obtenida. Toda está
 ejecución de nodos se irá haciendo en tiempo real, por eso la nube final se irá generando
 incrementalmente.
+
+
+Archivos: https://drive.google.com/file/d/1P61wql_KAwBB9IaETfyc1ZMdrFC6I9Wm/view?usp=share_link
