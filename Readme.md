@@ -1,4 +1,4 @@
-#Trabajo de fin de grado
+# Trabajo de fin de grado
 
 El trabajo de fin de grado se basa en el desarrollo de un pipeline en ROS y C++, con ayuda
 de otras librerías y técnicas como son la Point Cloud Library, OpenCV, paquetes de ROS
