@@ -1,2 +1,0 @@
-sensor_msgs/PointCloud2 nube1
-sensor_msgs/PointCloud2 nube2

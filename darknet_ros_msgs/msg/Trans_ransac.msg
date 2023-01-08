@@ -1,2 +1,0 @@
-geometry_msgs/PoseStamped mat_ransac
-geometry_msgs/PoseStamped mat_icp
